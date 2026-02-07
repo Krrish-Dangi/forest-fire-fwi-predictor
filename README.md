@@ -27,4 +27,4 @@ This project helped me understand:
 
 This is the first step in my journey into Machine Learning and real-world model deployment.
 
-Click here to view live demo: 
+Click here to view live demo: https://fwi-predictor-myzz.onrender.com
